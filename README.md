@@ -9,11 +9,11 @@ APP Calculadora
 * [Index](#index)
 * [Project Status](#project-status)
 * [Project Description](#project-description)
-* [Access the Project](#📁-access-the-project)
-* [Requirements](#📝-requirements)
-* [Project Features](#🔨-project-features)
-* [Run the Project](#▶-run-the-project)
-* [Authors](#👨‍💻-authors)
+* [Access the Project](#-access-the-project)
+* [Requirements](#-requirements)
+* [Project Features](#-project-features)
+* [Run the Project](#-run-the-project)
+* [Authors](#-authors)
 
 # Project Status
 
