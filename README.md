@@ -39,7 +39,7 @@ This project was developed as part of my study on the flutter framework. I was c
  
 - ## Install and configure AndroidStudio in your machine
 
- **https://developer.android.com/studio**
+**https://developer.android.com/studio**
 
 # 🔨 Project Features
 
