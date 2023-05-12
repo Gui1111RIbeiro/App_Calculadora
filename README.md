@@ -1,4 +1,4 @@
-APP Calculadora
+APP Calculator
 ==========
 ## A Flutter Project
 
@@ -17,7 +17,7 @@ APP Calculadora
 
 # Project Status
 
-![](https://img.shields.io/badge/state-success-brightgreen/github/deployments/:user/:repo/:environment)
+![Badge Success](https://img.shields.io/badge/State-Success-brightgreen?style=for-the-badge)
 
 # Project Description
 
@@ -59,7 +59,7 @@ flutter run
 
 # 👨‍💻 Authors
 
-| [<img src="https://avatars.githubusercontent.com/u/70274921?s=400&u=c1688d6fcd13223bfe1093c6d16b3b6b646545fe&v=4" width=115><br><sub>Guilherme Queiroz Ribeiro</sub>](https://github.com/Gui1111RIbeiro)
+| [<img src="https://avatars.githubusercontent.com/u/70274921?s=400&u=c1688d6fcd13223bfe1093c6d16b3b6b646545fe&v=4" width=115><br><sub>Guilherme Queiroz Ribeiro</sub>](https://github.com/GuiQueirozRibeiro)
 | :---: |
 
 ### End
