@@ -29,7 +29,7 @@ packages:
     dependency: "direct main"
     description:
       name: auto_size_text
-      sha256: "5d4a6d29727505dfa186b7c05afa19d9ac4166b139985e37b29cb212ec26bcb5"
+      sha256: "3f5261cd3fb5f2a9ab4e2fc3fba84fd9fcaac8821f20a1d4e71f557521b22599"
       url: "https://pub.dev"
     source: hosted
     version: "3.0.0"
@@ -122,7 +122,7 @@ packages:
     dependency: "direct dev"
     description:
       name: flutter_launcher_icons
-      sha256: a9de6706cd844668beac27c0aed5910fa0534832b3c2cad61a5fd977fce82a5d
+      sha256: ce0e501cfc258907842238e4ca605e74b7fd1cdf04b3b43e86c43f3e40a1592c
       url: "https://pub.dev"
     source: hosted
     version: "0.11.0"
@@ -236,7 +236,7 @@ packages:
     dependency: transitive
     description:
       name: string_scanner
-      sha256: "862015c5db1f3f3c4ea3b94dc2490363a84262994b88902315ed74be1155612f"
+      sha256: "556692adab6cfa87322a115640c11f13cb77b3f076ddcc5d6ae3c20242bedcde"
       url: "https://pub.dev"
     source: hosted
     version: "1.2.0"
@@ -252,7 +252,7 @@ packages:
     dependency: transitive
     description:
       name: test_api
-      sha256: c9aba3b3dbfe8878845dfab5fa096eb8de7b62231baeeb1cea8e3ee81ca8c6d8
+      sha256: ad540f65f92caa91bf21dfc8ffb8c589d6e4dc0c2267818b4cc2792857706206
       url: "https://pub.dev"
     source: hosted
     version: "0.4.16"
