@@ -45,7 +45,7 @@ Este projeto foi desenvolvido como parte do meu estudo no framework Flutter. Eu 
 
 - `Funcionalidade 1`: imagem do ícone
 - `Funcionalidade 2`: tela dividida
-- `Funcionalidade 3`: compatível para ambos os dispositivos IOS e Android
+- `Funcionalidade 3`: compatível com ambos dispositivos IOS e Android
 - `Funcionalidade 4`: aparência da calculadora é semelhante à calculadora do Mac
 - `Funcionalidade 5`: botões para executar as operações matemáticas
 
